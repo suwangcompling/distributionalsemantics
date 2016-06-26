@@ -1,5 +1,6 @@
 # distributionalsemantics
 
-* Word Similarity Task (data: Wiki dump)
+* Topic I. Word Similarity Task (data: Wiki dump)
   * PPMI / Cosine similarity (Complete)
-  * word2vec similarity <== Under Development
+  * word2vec similarity (Complete)
+* Topic II. TBA
