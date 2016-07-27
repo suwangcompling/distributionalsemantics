@@ -7,7 +7,8 @@
   * PPMI / Cosin / Jaccard similarity <== (Under Construction)
 * Topic II. Selection Preference
   * Count-based: Resnik (1996)
-  * EM-based: Rooth et al. (1999)
+  * EM-based: Rooth et al. (1999) (ON HOLD)
+  * Similarity-based: Erk (2007)
 
 
 * NB: In the research replicas, computational optimization is a side-concern, for lack of expertise. The main goal is to confirm the claims made in the studies.
