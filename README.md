@@ -9,6 +9,9 @@
   * Count-based: Resnik (1996)
   * EM-based: Rooth et al. (1999) (ON HOLD)
   * Similarity-based: Erk (2007)
+* Topic III. Similarity Measures
+  * Noun Similarity I (by Pred-Arg Structures): Hindle (1990)
+  * Noun Similarity II (by Automatically-Constructed Thesaurus): Lin (1998)
 
 
 * NB: In the research replicas, computational optimization is a side-concern, for lack of expertise. The main goal is to confirm the claims made in the studies.
