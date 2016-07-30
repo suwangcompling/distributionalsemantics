@@ -10,7 +10,7 @@
 * Topic II. Selection Preference
   * Count-based: Resnik (1996) (Complete)
   * EM-based: Rooth et al. (1999) (ON HOLD)
-  * Similarity-based: Erk (2007) (ON HOLD, computational cost on large data)
+  * Similarity-based: Erk (2007) (w/ modification on original due to data availability)
 * Topic III. Similarity Measures
   * Noun Similarity (by Pred-Arg Structures): Hindle (1990) (Complete)
   * Argument Similarity (by Automatically-Constructed Thesaurus, w/ also Dice & Jaccard): Lin (1998) (Complete)
