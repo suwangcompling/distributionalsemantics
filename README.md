@@ -16,4 +16,4 @@
   * Argument Similarity (by Automatically-Constructed Thesaurus, w/ also Dice & Jaccard): Lin (1998) (Complete)
 
 
-* NB: In the research replicas, computational optimization is a side-concern, for lack of expertise. The main goal is to confirm the claims made in the studies.
+* NB: In the research replicas, computational optimization is a side-concern, for lack of expertise in the area. The main goal is to confirm the claims made in the studies.
