@@ -8,12 +8,12 @@
   * PPMI association (Complete)
   * Cosine / Jaccard similarity (Complete)
 * Topic II. Selection Preference
-  * Count-based: Resnik (1996)
+  * Count-based: Resnik (1996) (Complete)
   * EM-based: Rooth et al. (1999) (ON HOLD)
-  * Similarity-based: Erk (2007)
+  * Similarity-based: Erk (2007) (UNDER DEVELOPMENT)
 * Topic III. Similarity Measures
-  * Noun Similarity (by Pred-Arg Structures): Hindle (1990)
-  * Argument Similarity (by Automatically-Constructed Thesaurus): Lin (1998)
+  * Noun Similarity (by Pred-Arg Structures): Hindle (1990) (Complete)
+  * Argument Similarity (by Automatically-Constructed Thesaurus, w/ also Dice & Jaccard): Lin (1998) (Complete)
 
 
 * NB: In the research replicas, computational optimization is a side-concern, for lack of expertise. The main goal is to confirm the claims made in the studies.
