@@ -14,6 +14,8 @@
 * Topic III. Similarity Measures
   * Noun Similarity (by Pred-Arg Structures): Hindle (1990) (Complete)
   * Argument Similarity (by Automatically-Constructed Thesaurus, w/ also Dice & Jaccard): Lin (1998) (Complete)
-
+* Topic IV. Sentence Similarty
+  * Metzler et al. (2005): Count/Tf-Idf Family (Complete)
+  * Li et al. (2006): Word Vector, Syntax-Semantics Family (Under Development)
 
 * NB: In the research replicas, computational optimization is a side-concern, for lack of expertise in the area. The main goal is to confirm the claims made in the studies.
