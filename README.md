@@ -16,6 +16,6 @@
   * Argument Similarity (by Automatically-Constructed Thesaurus, w/ also Dice & Jaccard): Lin (1998) (Complete)
 * Topic IV. Sentence Similarty
   * Metzler et al. (2005): Count/Tf-Idf Family (Complete)
-  * Li et al. (2006): Word Vector, Syntax-Semantics Family (Under Development)
+  * Li et al. (2006): Word Vector, Syntax-Semantics Family (Complete)
 
 * NB: In the research replicas, computational optimization is a side-concern, for lack of expertise in the area. The main goal is to confirm the claims made in the studies.
