@@ -17,6 +17,6 @@
 * Topic IV. Sentence Similarty
   * Metzler et al. (2005): Count/Tf-Idf Family (Complete)
   * Li et al. (2006): Word Vector, Syntax-Semantics Family (Complete)
-  * Ji & Eisenstein (2013); Wan et al. (2006); Zhang & Sasha (1989); etc.: Wide-Inclusive Sentence Featurization (Under Development)
+  * Ji & Eisenstein (2013); Wan et al. (2006); Zhang & Sasha (1989); etc.: Wide-Inclusive Sentence Featurization (Complete, Unable to Replicate)
 
 * NB: In the research replicas, computational optimization is a side-concern, for lack of expertise in the area. The main goal is to confirm the claims made in the studies.
